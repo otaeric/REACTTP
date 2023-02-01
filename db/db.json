@@ -1,0 +1,63 @@
+{
+"productos": [
+    {
+      "id": 1,
+      "nombre": "Sea Monkey",
+      "precio": 2000,
+      "capacidad": 49,
+      "src": "./img/sm.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "The Jolly Rasta",
+      "precio": 3500,
+      "capacidad": 15,
+      "src": "./img/tjr.png"
+    },
+    {
+      "id": 3,
+      "nombre": "LeChuck's Ghost Ship",
+      "precio": 9500,
+      "capacidad": 101,
+      "src": "./img/lgs.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "The Sea Cucumber",
+      "capacidad": 6500,
+      "precio": 8500,
+      "src": "./img/tsc.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "The Death Starfish",
+      "precio": 6000,
+      "capacidad": 83,
+      "src": "./img/tds.jpg"
+    },
+    
+    {
+      "id": 6,
+      "nombre": "The Mad Monkey",
+      "precio": 1500,
+      "capacidad": 37,
+      "src": "./img/tmm.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "The Lost Welshman",
+      "precio": 670,
+      "capacidad": 2,
+      "src": "./img/tlw.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "The Royal",
+      "precio": 8900,
+      "capacidad": 115,
+      "src": "./img/tr.jpg"
+    }
+  ],
+  
+  "carrito": []
+}
